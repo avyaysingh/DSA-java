@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.arrays;
 
 public class FindIfArrayIsSorted {
     public static void main(String[] args) {
